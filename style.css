@@ -1,0 +1,121 @@
+.logo{
+    width: 120px;
+    height: 40px;
+}
+
+.menu{
+    margin-right: 30px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.click-btn{
+    background-color: #2eb35a;
+    border-radius: 33px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+.upper-section{
+    background-color: #F0FFF0;
+}
+.img-fluid{
+    max-width: 90%;
+    height: auto;
+}
+.ready-learn-text{
+    color:#FD511A;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+section{
+    margin-bottom: 100px;
+}
+.middle-section img{
+    height: 100px;
+    width: 100px;
+}
+.card{
+    background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+border: none;
+margin: 0 30px;
+}
+.cards{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color:#F8FFFB;
+    border-radius: 10px;
+    border: none;
+    margin:0 30px;
+}
+
+#student{
+    
+       
+        background: #FFFFFF;
+        box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+        
+}
+.headline{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+margin-bottom: 40px;
+}
+.card-img{
+    padding: 10px 15px;
+}
+.cal img{
+    height: 20px;
+    width: 20px;
+}
+.pep img{
+    height: 20px;
+    width: 20px;
+}
+.fot{
+    margin-top: 50px;
+}
+.man img{
+height: 120px;
+width: 120px;
+}
+.testomonial{
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+.carousel-item img{
+    width: 50%;
+    height: 50%;
+}
+#footer-text{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+#courses-links{
+    padding-top: 50px;
+}
+.footer{
+    background-color: #282531;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    }
+.footer-inner{
+    margin-bottom: 30px;
+}
+.copyright{
+    text-align: center;
+    padding: 30px 0;
+}
